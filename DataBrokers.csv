@@ -56,10 +56,10 @@ courtcasefinder.com,https://courtcasefinder.com/optout,Use the opt-out (Remove Y
 CourtRecords.org,https://members.courtrecords.org/customer/opt-out,Fill out Remove Your Information/Opt out form to opt out.,FALSE
 CourtRegistry.org,,,FALSE
 CorporationWiki.com,https://www.corporationwiki.com/profiles/public,Use the Opt-out Request Form to complete the removal process.,FALSE
-Criminal-Records.org,,,FALSE
-CriminalPages.com,,,FALSE
+Criminal-Records.org (Infotracer),https://www.infotracer.com/optout/,Criminal-records.org is owned by infotracer. Use the opt out form and fill out the information as it apears on your listing.,FALSE
+CriminalPages.com (Infotracer),https://www.infotracer.com/optout/,Criminal-records.org is owned by infotracer. Use the opt out form and fill out the information as it apears on your listing.,FALSE
 cubib.com,https://cubib.com,"Search for yourself on cubib, find your own listing(s) and click ""opt out"". Follow the instructions or removal including listing the information you want removed as it appears in your listing. ",FALSE
-CyberBackgroundChecks.com,,,FALSE
+CyberBackgroundChecks.com,https://www.cyberbackgroundchecks.com/removal,"Use the removal form to search for your listing, click ""view details"" on your profile if it exists, then follow the instructions for the opt-out process.",FALSE
 DeathRecords.org,,,FALSE
 DentistsCalifornia.org,,,FALSE
 dex-knows.com (Whitepages),https://www.whitepages.com/suppression_requests,"Dex-knows is owned by whitepages, so removing yourself from whitepages will remove you from Dex-knows. To remove yourself from whitepages, search for yourself, click ""View Details"" on your listing and copy the URL of your page. Enter this URL into the Whitepages opt out form https://www.whitepages.com/suppression_requests.",FALSE
@@ -84,43 +84,44 @@ FindLocalPeople.com,https://www.findlocalpeople.com/people-locator/change-listin
 FindPeopleSearch.com,https://www.findpeoplesearch.com/customerservice/,Use the opt out form to remove your listing.,FALSE
 findrec.com,https://www.findrec.com/ng/control/privacy,Use the opt out tool to remove your listing.,FALSE
 FireArmsCalifornia.org,,,FALSE
-FloridaProfilePages.com,,,FALSE
-FloridaResidentsDirectory.com,,,FALSE
+FloridaProfilePages.com,http://floridaprofilepages.com/Remove,"Go to floridaprofilepages.com and search for your listing. If your listing exists, enter the URL of it into the opt out form to remove.",FALSE
+FloridaResidentsDirectory.com,https://www.floridaresidentsdirectory.com/opt-out,Search for own records. If it exists then fill out the opt out form with your profile URL for profile removal.,FALSE
 FLVoters.com,,,FALSE
 FreeBackgroundCheck.us,,,FALSE
-freecellsearch.com,,,FALSE
-FreePeopleDirectory.com,,,FALSE
-FreePhoneTracer.com,support@numberguru.com,,FALSE
+freecellsearch.com,https://www.freecellsearch.com/contacts.php,"Search for your own number on the site. If it exists, use the contact form to request removal.",FALSE
+FreePeopleDirectory.com,https://www.freepeopledirectory.com/optout,"Search for your own listing on the site. If it exists, use the opt out form to submit the URL of your listing to remove it.",FALSE
+FreePhoneTracer.com,https://www.peoplesmart.com/optout-go,"Use the opt out link to search for your own listing and click ""That's the one"" to remove your information.",FALSE
 FullNameDirectory.com,,,FALSE
 gladiknow.com,https://www.gladiknow.com/opt-out,Using the opt out link search for your own listing. Click 'Select + View Details' on the matching listing. Scroll down the page to find the ‘Important Records’ section. Click the ‘OPT OUT/REMOVE MY DATA’ link in the bottom right corner.,FALSE
 GoLookup.com,https://www.golookup.com/support/optout,,FALSE
-GovBackgroundChecks.com,,,FALSE
-GovernmentRegistry.org,,,FALSE
+GovBackgroundChecks.com,https://www.truthfinder.com/opt-out/,"GovBackgroundChecks is owned by Truthfinder, so removing yourself from Truthfinder will remove yourself from GovBackgroundChecks. Search for your own profile. If it exists, click on the green ""Remove this Record"" on your profile.",FALSE
+GovernmentRegistry.org (Infotracer),https://www.infotracer.com/optout/,"Governmentregistry.org is owned by Infotracer, so removing yourself from InfoTracer will remove you from GovernmentRegistry. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
 GovRegistry.us,,,FALSE
-grey-pages.com,,,FALSE
-Hauziz.com,,,FALSE
-Homemetry.com,,,FALSE
+grey-pages.com,https://www.grey-pages.com/removal,"Use the removal form to enter in your phone number and click on the ""opt out"" button.",FALSE
+Hauziz.com,support@hauziz.com,,FALSE
+Homemetry.com,https://homemetry.com/,"Search for your own address on homemetry.com. If your address is listed, click on it and scroll down to ""Cost Estimate History"" and click on ""Information Control"" on the right side of the page. Select up to six pieces of information that you would like to remove - you cannot remove more than six records. Click ""Apply"".",FALSE
 HPCC-USA.org,,,FALSE
-IdentityPi.com,,,FALSE
-IDStrong.com,,,FALSE
-IDTrue.com,,,FALSE
+IdentityPi.com,support@identitypi.com,"To opt out of an identitypi account, send an email to support@identitypi.com",FALSE
+IDStrong.com,https://www.idstrong.com/optout/,Use the removal form to complete the opt-out process.,FALSE
+IDTrue.com,https://www.idtrue.com/optout/,Using the opt out link search for your name using the form on the page and select your record for removal.,FALSE
 Inflection.com,,,FALSE
 InfoGroup.com,,,FALSE
-InfoPay.com,,,FALSE
-InfoRegistry.com,https://infotracer.com/optout/,,FALSE
+InfoPay.com (Infotracer),https://www.infotracer.com/optout/,"Infopay is owned by Infotracer, so removing yourself from InfoTracer will remove you from Infopay. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
+InfoRegistry.com (Infotracer),https://www.infotracer.com/optout/,"InfoRegistr is owned by Infotracer, so removing yourself from InfoTracer will remove you from InfoRegistry. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
 InfoSpace.com,,,FALSE
-InfoTracer.com,https://infotracer.com/optout/,,FALSE
-InstantCheckmate.com,,,FALSE
-InstantPeopleFinder.com,,,FALSE
-Inteligator.com,,,FALSE
-Intelius.com,,,FALSE
-IntelRegistry.com,,,FALSE
+InfoTracer.com,https://www.infotracer.com/optout/,,FALSE
+InstantCheckmate.com,https://www.instantcheckmate.com/opt-out/,"Search for your own listing. If it exists copy and paste the URL into the opt out form and click ""Remove this record.""",FALSE
+InstantPeopleFinder.com (Intelius),https://www.intelius.com/opt-out/submit/,"InstantPeopleFinder is owned by Intelius, so removing yourself from Intelius will remove yourself from InstantPeopleFinder. Use the opt out link to search for your own listing and click ""select and continue"" to remove your profile.",FALSE
+Inteligator.com (Infotracer),https://www.infotracer.com/optout/,"Inteligator.com is owned by Infotracer, so removing yourself from InfoTracer will remove you from Inteligator. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
+Intelius.com,https://www.intelius.com/opt-out/,"Use the opt out tool to search for your listing. When it is found select ""Select and continue"". Follow the procedure to remove your listing.",FALSE
+IntelRegistry.com (Infotracer),https://www.infotracer.com/optout/,"Intelregistry is owned by Infotracer, so removing yourself from InfoTracer will remove you from Intelregistry. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
 kccllc.net,,,FALSE
-KiwiSearches.com,,,FALSE
-LeadFerret.com,,,FALSE
-LexisNexis.com,,,FALSE
-LocateFamily.com,,,FALSE
-MarriageRecords.com,,,FALSE
+KiwiSearches.com,https://kiwisearches.com/contact,Use the contact form with URL of listing if it exists to request removal. Write the information exactly as it appears in your listing even if incorrect.,FALSE
+LeadFerret.com,removeme@leadferret.com,Submit your removal request to removeme@leadferret.com.,FALSE
+LexisNexis.com,https://optout.lexisnexis.com/,Use the opt out form to opt out.,FALSE
+LocateFamily.com,https://www.locatefamily.com/removal2.html,Use he opt out form to ,FALSE
+MarriageRecords.com (Infotracer),https://www.infotracer.com/optout/,"MarriageRecords is owned by Infotracer, so removing yourself from InfoTracer will remove you from MarriageRecords. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
+MarriageRecords.org,http://www.marriagerecords.org/site-lp_optout.php,Use the opt out page for profile removal. Information removal is by fax or email only.,
 MashPanel.com,,,FALSE
 MelissaData.com,unsubscribe@melissa.com ,"Opt out of email marketing, direct mail marketing, or address listing on the website by contacting via email address unsubscribe@melissa.com",FALSE
 MillionPhone.ne,,,FALSE
@@ -130,13 +131,13 @@ namesandfacts.com,,,FALSE
 NDB.com,,,FALSE
 neighborwho.com,,,FALSE
 Neighbor.Report,,,FALSE
-NewEnglandFacts.com,,,FALSE
+NewEnglandFacts.com,https://newenglandfacts.com/ ,"Search for your own profile on the website. If it exists, click ""Control this profile"" next to your information and follow the instructions to opt out.",FALSE
 NJParcels.com,,,FALSE
 NorthCarolinaResidentDatabase.com,,,FALSE
 NotariesCalifornia.com,,,FALSE
 Number2Name.com,,,FALSE
 Nuwber.com,,,FALSE
-OKCaller.com,,,FALSE
+OKCaller.com,https://www.OKCaller.com,"Go to Okcaller.com and create an account using a throwaway email. Search for your phone number in the search bar on the top left of the page. Find your listing and click on it then scroll down and click ""This is my number"" on your listing if it exists. Click on ""Opt-out/Unlist"" to remove your profile.",FALSE
 Old-Friends.co,,,FALSE
 OldPhoneBook.com,,,FALSE
 OnlineSearches.com,,,FALSE
@@ -182,8 +183,8 @@ Radaris.com,https://radaris.com/control/privacy,"Search for your own records. Cl
 Records-Index.com,,,FALSE
 RecordsAuthority.com,,,FALSE
 RecordsFinder.com,https://recordsfinder.com/optout/,"Use the opt out form and fill out the information to search. If your listing exists, check the ""Select Record"" box and click the ""Remove Data"" button.",FALSE
-Rehold.com,,,FALSE
-Reunion.com,,,FALSE
+Rehold.com,https://rehold.com/,"Search for your own listing and click ""Information Control"" to the right of your listing. Click ""Remove"" next to the information you want to remove and click ""Apply"" to remove dat from the site.",FALSE
+Reunion.com (MyLife),removalrequests@mylife.com,"Reuinin is owned by  MyLife, so removing yourself from MyLife will remove you from Reunion. Go to mylife.com and search for your own listing. On the results page click ""See Reputation Score"" and copy and paste the URL of your profile. Compose an email request to opt out with only the data found in your listing and the URL of your profile.",FALSE
 RevealName.com,https://www.revealname.com/opt_out,Search for your own records via Name lookup. If they exist use the opt out form.,FALSE
 ReverseMobile.com (Infotracer),https://infotracer.com/optout/,"Reverse Mobile is owned by InfoTracer, so removing yourself from InfoTracer will remove you from Reverse Mobile. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
 ReversePhoneCheck.com (Infotracer),https://infotracer.com/optout/,"Reverse Phone Check is owned by InfoTracer, so removing yourself from InfoTracer will remove you from Reverse Phone Check. Search for your listing using the opt out tool and select ""Remove my Data"" next to your record.",FALSE
@@ -205,7 +206,7 @@ Sync.me,https://sync.me/optout/,Remove yourinformation via the opt out form.,FAL
 TelephoneDirectories.us,https://www.telephonedirectories.us/Edit_Records,Search for yourself using the People Search. If your information exists complete the opt out form.,FALSE
 TennHelp.com,https://www.tennhelp.com/public-resources/change-listing.html,Search for yourself using the People Finder. If your information exists complete the opt out form.,FALSE
 ThatsThem.com,https://thatsthem.com/optout,Search for yourself by name phone and address. If your information exists complete opt out form.,FALSE
-TheIdentityPages.com,,,FALSE
+TheIdentityPages.com,https://theidentitypages.com/Remove,Go to theidentitypages.com. Search for your own profile by using the search bar and find the profile that contains information about you.Copy the URL of your profile and use the remove page to remove your profile.,FALSE
 thepublicrecords.com (People Finders),https://www.peoplefinders.com/manage,"The public records is owned by People Finders. Removing yourself from PeopleFinders will remove you from The Public Records. Use the link to find your own listing and click ""This is me."" Click on ""opt out my info"" to opt out.",FALSE
 TowerData.com,,,FALSE
 TrueCaller.com,https://www.truecaller.com/unlisting,"Search for your phone number. If a record is found, use the link to remove it from the site.",FALSE
@@ -228,8 +229,8 @@ UserSearch.org,support@usersearch.org,Find your own information using the websit
 usphonenumberformat.com,,,FALSE
 ValidNumber.com,https://validnumber.com/doc/contact/,Search for your own phone number. If a listing exists use the contact form for profile removal.,
 ValPak.com,,,FALSE
-verecor.com,,,FALSE
-vericora.com,,,FALSE
+verecor.com,https://verecor.com/ng/control/privacy,"Search for your own listing. If it exists, paste the URL of your listing into the opt out form.",FALSE
+vericora.com,https://vericora.com/ng/control/privacy,"Search for your own listing. If it exists, paste the URL of your listing into the opt out form.",FALSE
 veriforia.com,https://veriforia.com/ng/control/privacy,"Enter your full name, specify your city and state, and click the 'Search' button. Find the matching result and click the 'View profile' button.
 Copy the URL of your profile and fill out the opt out form with this information.",FALSE
 VeriPages.com,support@veripages.com,Search for your name and location. Copy the URL of the page that lists your information and request to opt-out via email at support@veripages.com.,FALSE
@@ -238,8 +239,8 @@ Veromi.com,Mail,"Search for your own listing and see if it exists. If it does ma
 15260 Ventura Blvd 20th FI.
 Sherman Oaks CA 91403",FALSE
 VoterRecords.com,https://voterrecords.com/faq,Follow the directions in the FAQ.,FALSE
-whatareusaphonenumbers.com,removephonenumber@yeah.net,,FALSE
-WhitePages.com,https://www.whitepages.com/suppression_requests,,FALSE
+whatareusaphonenumbers.com,removephonenumber@yeah.net,Contact removephonenumber@yeah.net to remove phone number.,FALSE
+WhitePages.com,https://www.whitepages.com/suppression_requests,Use the suppresion request form to paste your URL to remove your profile.,FALSE
 whoiscallingmefromthisnumber.com,,,FALSE
 Wyty.com,https://www.wyty.com/remove/,Search for your own profile and fill out the profile removal form. Fill out removal form with exactly the same information that appears in the listing.,FALSE
 Xlek.com,https://www.xlek.com/optout.php,"Enter your first and last name, select your state and click ‘Get started’. Click on your profile if it exists and click Opt-out",FALSE
