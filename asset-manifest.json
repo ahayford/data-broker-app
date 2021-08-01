@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/data-broker-app/static/css/main.a6831f3f.chunk.css",
+    "main.js": "/data-broker-app/static/js/main.c19cf3d6.chunk.js",
+    "main.js.map": "/data-broker-app/static/js/main.c19cf3d6.chunk.js.map",
+    "runtime-main.js": "/data-broker-app/static/js/runtime-main.9bd21f29.js",
+    "runtime-main.js.map": "/data-broker-app/static/js/runtime-main.9bd21f29.js.map",
+    "static/js/2.f453e052.chunk.js": "/data-broker-app/static/js/2.f453e052.chunk.js",
+    "static/js/2.f453e052.chunk.js.map": "/data-broker-app/static/js/2.f453e052.chunk.js.map",
+    "static/js/3.38bf5926.chunk.js": "/data-broker-app/static/js/3.38bf5926.chunk.js",
+    "static/js/3.38bf5926.chunk.js.map": "/data-broker-app/static/js/3.38bf5926.chunk.js.map",
+    "index.html": "/data-broker-app/index.html",
+    "static/css/main.a6831f3f.chunk.css.map": "/data-broker-app/static/css/main.a6831f3f.chunk.css.map",
+    "static/js/2.f453e052.chunk.js.LICENSE.txt": "/data-broker-app/static/js/2.f453e052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bd21f29.js",
+    "static/js/2.f453e052.chunk.js",
+    "static/css/main.a6831f3f.chunk.css",
+    "static/js/main.c19cf3d6.chunk.js"
+  ]
+}
