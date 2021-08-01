@@ -1,20 +1,8 @@
 .App {
   text-align: center;
-  background-color: #8D86C9;
+  background-color: #CAC4CE;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-
-.data-row {
-  display: flex;
-}
-
-.data-column {
-  flex: 50%;
-}
 
 .modal {
   position: fixed;
@@ -24,35 +12,50 @@
   width: 100%;
   height: 100%;
   overflow: auto;
+  padding-top: 15%;
   background-color: rgba(0,0,0,0.5);
+
 }
 
 .modal-content {
-  background-color: #CAC4CE;
+  background-color: #F7ECE1;
   margin: 10% auto; /* 15% from the top and centered */
   padding: 20px;
   top: 50%;
   /*border: 1px solid #888;*/
   width: 80%; /* Could be more or less, depending on screen size */
   /*background-color: rgba(0,0,0,0.2);*/
+  border-style: solid;
+  border-color: #242038;
+  border-width: thick;
+  border-radius: 30px;
+
 }
 
 .modal-title-div {
   margin: 5% auto;
   border-radius: 10px;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
   width: 90%;
-  background-color: #8D86C9;
+  background-color: #CAC4CE;
+  padding: 0.1em 0.1em;
 }
 
 .modal-instruction-div {
   border-radius: 10px;
   margin: 5% auto;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
   width: 90%;
-  background-color: #8D86C9;
+  background-color: #CAC4CE;
+  padding: 0.5em 0.5em;
 }
 
 .close {
-  color: #072dae;
+  color: #242038;
   float: right;
   font-size: 28px;
   font-weight: bold;
@@ -66,17 +69,19 @@
 }
 
 .button {
-  background-color: #725AC1;
+  background-color: #CAC4CE;
   border: 1px solid;
   color: #242038;
-  /*padding: 15px 32px;*/
   text-align: center;
   text-decoration: none;
-  text-color: #383820;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 5px;
   width: 80%;
-  /*font-size: 16px;*/
+}
+
+.button:hover {
+  background-color: #8D86C9;
+  color: #242038;
 }
 
 .button-grey {
@@ -87,9 +92,13 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 5px;
   width: 80%;
-  /*font-size: 16px;*/
+}
+
+.button-grey:hover {
+  background-color: #8D86C9;
+  color: #242038;
 }
 
 
@@ -103,56 +112,127 @@
 }
 
 .title-div {
-  display: grid;
-  grid-column: 2/12;
-  grid-row-start: 1;
-  margin-top: 1em;
-  background-color: #cfb7e0;
+  margin: 1em 1em 1em 1em;
+  background-color: #CAC4CE;
   border-radius: 10px;
-  border-color: #c15a8f;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
+}
+
+.search-bar-outer-div {
+  display: grid;
+  margin: 1em 1em 1em 1em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  grid-template-columns: repeat(6,1fr);
+  background-color: #CAC4CE;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
 }
 
 .search-bar-div {
   display: grid;
-  grid-column: 5/11;
-  grid-row-start: 2;
-  background-color: #c787c9;
+  grid-column: 3/5;
 }
 
-.complete-row {
-  background-color: #0c0c0c;
+.outer-header-wrapper {
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  background-color: #8D86C9;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
 }
 
-.incomplete-row {
-  background-color: white;
+.header-Table {
+  background-color: #8D86C9;
+  table-layout: fixed ;
+}
+
+.tr-header-table {
+  background-color: #F7ECE1;
+}
+
+.header-wrapper {
+  display: grid;
+  grid-column: 2/12;
+  padding-left: 1.7em;
+  padding-right: 1.7em;
+  background-color: #8D86C9;
+}
+
+
+
+.td-header-table {
+  width: 25%;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
+
 }
 
 .table-wrapper {
   display: grid;
   grid-column: 2/12;
-  grid-row-start: 3;
+  grid-row-start: 15;
   border-radius: 10px;
-  background-color: #51bfb7;
+  grid-gap: 1em;
+  background-color: #8D86C9;
+  border-style: solid;
+  border-color: #725AC1;
+  border-width: medium;
+  margin-bottom: 1em;
 }
 
-.my-Table {
-  background-color: #8D86C9;
+#optout-Table {
   margin: 25px 25px 25px 25px;
 }
 
-.rows {
+.tr-incomplete, .tr-complete {
   display: grid;
   grid-template-columns: repeat(4,1fr);
 }
 
-
-.a.link-complete {
-  text-decoration: none;
-  color: #c66e12;
+.tr-incomplete:nth-child(even) {
+  background-color: #CAC4CE;
 }
 
-.a.link-incomplete {
+.tr-incomplete:nth-child(odd) {
+  background-color: #F7ECE1;
+}
+
+.td-complete {
+  background-color: #242038;
+  color: #F7ECE1;
+  border: 1px solid #F7ECE1;
+}
+
+.td-incomplete {
+  border: 1px solid #8D86C9;
+}
+
+.link-complete {
   text-decoration: none;
+  color: #F7ECE1;
+}
+
+
+.link-incomplete {
+  text-decoration: none;
+  color: #725AC1;
+}
+
+a:hover {
   color: #242038;
 }
 
+.fixed-div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #242038;
+}

@@ -36,8 +36,8 @@
     "complete": "FALSE"
   },
   {
-    "name": "Addresses.com",
-    "optout": "https://www.addresses.com/optout.php",
+    "name": "Addresses.com (Intelius)",
+    "optout": "https://www.intelius.com/opt-out/submit/",
     "instruction": "Use the opt out form and fill out the information as it apears on your listing.",
     "complete": "FALSE"
   },
@@ -79,14 +79,8 @@
   },
   {
     "name": "alumnius.net",
-    "optout": "alumnius.net/feedback",
+    "optout": "https://www.alumnius.net/feedback",
     "instruction": "Does not have a functioning opt-out process in place at this time. Use the feedback form.",
-    "complete": "FALSE"
-  },
-  {
-    "name": "American List Counsel (ALC)",
-    "optout": "",
-    "instruction": "",
     "complete": "FALSE"
   },
   {
@@ -163,8 +157,8 @@
   },
   {
     "name": "BizShark.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.bizshark.com/opt_out/new",
+    "instruction": "Search for your name on https://www.bizshark.com/ to find your listing. Click on your name and then copy the URL of your listing. Submit it into the opt out form to opt out.",
     "complete": "FALSE"
   },
   {
@@ -187,32 +181,32 @@
   },
   {
     "name": "CaliforniaEngineering.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "removals@licensedata.org",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
     "name": "CaliforniaLicensing.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "removals@licensedata.org",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
     "name": "CaliforniaNursing.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "removals@licensedata.org",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
     "name": "CaliforniaPharmacists.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "contact@licensedata.org",
+    "instruction": "Search for yourself on californiapharmacists.org. Find your matching result and click on the URL of your listing. Copy and paste this in an email to contact@licensedata.org and request for profile removl in your email.",
     "complete": "FALSE"
   },
   {
     "name": "callernear.com",
     "optout": "removephonenumber@yeah.net",
-    "instruction": "Email�removephonenumber@yeah.net�with �removal� as the subject and include the phone number you want removed.",
+    "instruction": "Email�removephonenumber@yeah.net�with REMOVAL as the subject and include the phone number you want removed.",
     "complete": "FALSE"
   },
   {
@@ -223,20 +217,14 @@
   },
   {
     "name": "callersmart.com",
-    "optout": "feedback@callersmart.com with �Removal� as the subject.",
+    "optout": "feedback@callersmart.com",
     "instruction": "Email feedback@callersmart.com with �Removal� as the subject. Enter information as it appears in your listing.",
     "complete": "FALSE"
   },
   {
     "name": "calltruth.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "CatalogChoice.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.calltruth.com/opt_out.php",
+    "instruction": "Use the opt out form to complete the removal process.",
     "complete": "FALSE"
   },
   {
@@ -271,8 +259,8 @@
   },
   {
     "name": "City-Data.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.city-data.com/",
+    "instruction": "Find your own listing, and press blue link �Request disassociating your name from street-level assessment address�. Fill out form. ",
     "complete": "FALSE"
   },
   {
@@ -283,8 +271,8 @@
   },
   {
     "name": "classmates.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.classmates.com/",
+    "instruction": "Log into your account navigate to your account settings and change the offending information. You can also delete your account from the settings panel.",
     "complete": "FALSE"
   },
   {
@@ -307,8 +295,8 @@
   },
   {
     "name": "ContractorsCalifornia.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "removals@licensedata.org",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
@@ -331,8 +319,8 @@
   },
   {
     "name": "CourtRegistry.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.courtregistry.org/contact/",
+    "instruction": "Use the contact form to request profile removal.",
     "complete": "FALSE"
   },
   {
@@ -342,651 +330,639 @@
     "complete": "FALSE"
   },
   {
-    "name": "Criminal-Records.org",
-    "optout": "",
-    "instruction": "",
+    "name": "Criminal-Records.org (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Criminal-records.org is owned by infotracer. Use the opt out form and fill out the information as it apears on your listing.",
     "complete": "FALSE"
   },
   {
-    "name": "CriminalPages.com",
-    "optout": "",
-    "instruction": "",
+    "name": "CriminalPages.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Criminal-records.org is owned by infotracer. Use the opt out form and fill out the information as it apears on your listing.",
     "complete": "FALSE"
   },
   {
     "name": "cubib.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://cubib.com",
+    "instruction": "Search for yourself on cubib, find your own listing(s) and click \"opt out\". Follow the instructions or removal including listing the information you want removed as it appears in your listing. ",
     "complete": "FALSE"
   },
   {
     "name": "CyberBackgroundChecks.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.cyberbackgroundchecks.com/removal",
+    "instruction": "Use the removal form to search for your listing, click \"view details\" on your profile if it exists, then follow the instructions for the opt-out process.",
     "complete": "FALSE"
   },
   {
     "name": "DeathRecords.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://deathrecords.org/index.php?xpath=lp_optout",
+    "instruction": "Follow the instructions in the link for the opt out process.",
     "complete": "FALSE"
   },
   {
     "name": "DentistsCalifornia.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "removals@licensedata.org ",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
-    "name": "dex-knows.com",
-    "optout": "",
-    "instruction": "",
+    "name": "dex-knows.com (Whitepages)",
+    "optout": "https://www.whitepages.com/suppression_requests",
+    "instruction": "Dex-knows is owned by whitepages, so removing yourself from whitepages will remove you from Dex-knows. To remove yourself from whitepages, search for yourself, click \"View Details\" on your listing and copy the URL of your page. Enter this URL into the Whitepages opt out form https://www.whitepages.com/suppression_requests.",
     "complete": "FALSE"
   },
   {
-    "name": "DirectMail.com",
-    "optout": "",
-    "instruction": "",
+    "name": "DirectMail.com (National Do Not Mail List)",
+    "optout": "https://www.directmail.com/mail_preference/",
+    "instruction": "Use the opt out form to join the National Do Not Mail list.",
     "complete": "FALSE"
   },
   {
     "name": "DMAChoice.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.dmachoice.org/register.php",
+    "instruction": "Use the registration link to manage the mail you receive.",
     "complete": "FALSE"
   },
   {
     "name": "DOBSearch.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.dobsearch.com/",
+    "instruction": "Search for your own name and select the listing that belongs to you. Scroll down and click \"Manage my Listings\" and follow the instructions provided for removal.",
     "complete": "FALSE"
   },
   {
-    "name": "DoNotCall.gov",
-    "optout": "",
-    "instruction": "",
+    "name": "DoNotCall.gov (National Do Not Call Registry)",
+    "optout": "https://www.donotcall.gov/register.html",
+    "instruction": "Use the register form to place yourself on the National Do Not Call registry.",
     "complete": "FALSE"
   },
   {
-    "name": "easybackground.com",
-    "optout": "",
-    "instruction": "",
+    "name": "easybackgrounds.com",
+    "optout": "1-800-538-6525",
+    "instruction": "EasyBackgrounds.com cannot remove your information from their site, as they collect information from other databases and public records. You may try contacting them at 1-800-538-6525.",
     "complete": "FALSE"
   },
   {
-    "name": "EasyBackgroundChecks.com",
-    "optout": "",
-    "instruction": "",
+    "name": "EasyBackgroundChecks.com (Intelius)",
+    "optout": "https://intelius.com/optout",
+    "instruction": "Go to the opt out link and search for your listing. If it exists, click \"select and continue\" next to your profile and enter a throwaway email address to verify your opt-out request and request removal.",
     "complete": "FALSE"
   },
   {
-    "name": "EmailFinder.com",
-    "optout": "",
-    "instruction": "",
+    "name": "EmailFinder.com (PeopleSmart)",
+    "optout": "https://www.peoplesmart.com/optout-go",
+    "instruction": "Search for your own listing on the opt out website. Click \"That's the one\" on your profile and follow the instructions to opt out.",
     "complete": "FALSE"
   },
   {
-    "name": "EmailTracer.com",
-    "optout": "",
-    "instruction": "",
+    "name": "EmailTracer.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "EailTracer.com is owned by infotracer. Use the opt out form and fill out the information as it apears on your listing.",
     "complete": "FALSE"
   },
   {
-    "name": "Epsilon - Abacus",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "Epsilon - CFD",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "Epsilon - Main",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "Epsilon - Shopper",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "Everyone-Records.com",
-    "optout": "",
-    "instruction": "",
+    "name": "Epsilon",
+    "optout": "https://www.epsilon.com/us/marketing-data-summary-request",
+    "instruction": "Follow the opt out form to remove your marketing information.",
     "complete": "FALSE"
   },
   {
     "name": "FamilySearch.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "DataPrivacyOfficer@ChurchofJesusChrist.org",
+    "instruction": "FamilySearch.org does not provide any kind of removal process directly on their site. To remove your information from the website contact the data privacy officer at DataPrivacyOfficer@ChurchofJesusChrist.org.",
     "complete": "FALSE"
   },
   {
     "name": "FamilyTreeNow.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.familytreenow.com/optout",
+    "instruction": "Follow the instructions in the opt out link to remove your information.",
     "complete": "FALSE"
   },
   {
     "name": "fastbackgroundcheck.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.fastbackgroundcheck.com/opt-out",
+    "instruction": "Use the opt out link to search for your own listing and click \"Remove my record\" after clicking on the matching result.",
     "complete": "FALSE"
   },
   {
     "name": "FastPeopleSearch.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.fastpeoplesearch.com/removal",
+    "instruction": "Use the out tool to find your own listing. On your own listing click \"view free details\" and then click \"remove my record.\"",
     "complete": "FALSE"
   },
   {
     "name": "FindLocalPeople.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.findlocalpeople.com/people-locator/change-listing.html",
+    "instruction": "Find your own listing and click on it. Copy and paste this URL into the opt out form.",
     "complete": "FALSE"
   },
   {
     "name": "FindPeopleSearch.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.findpeoplesearch.com/customerservice/",
+    "instruction": "Use the opt out form to remove your listing.",
     "complete": "FALSE"
   },
   {
     "name": "findrec.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.findrec.com/ng/control/privacy",
+    "instruction": "Use the opt out tool to remove your listing.",
     "complete": "FALSE"
   },
   {
     "name": "FireArmsCalifornia.org",
-    "optout": "",
-    "instruction": "",
+    "optout": " removals@licensedata.org",
+    "instruction": "Enter your first and last name, click �Find�. Copy the URL of your listing and email your removal request with the listing�s URL at removals@licensedata.org with \"Removal Request\" as the subject.",
     "complete": "FALSE"
   },
   {
     "name": "FloridaProfilePages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://floridaprofilepages.com/Remove",
+    "instruction": "Go to floridaprofilepages.com and search for your listing. If your listing exists, enter the URL of it into the opt out form to remove.",
     "complete": "FALSE"
   },
   {
     "name": "FloridaResidentsDirectory.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.floridaresidentsdirectory.com/opt-out",
+    "instruction": "Search for own records. If it exists then fill out the opt out form with your profile URL for profile removal.",
     "complete": "FALSE"
   },
   {
     "name": "FLVoters.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "FreeBackgroundCheck.us",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://flvoters.com/removal.html",
+    "instruction": "Use the removal form to remove your information.",
     "complete": "FALSE"
   },
   {
     "name": "freecellsearch.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.freecellsearch.com/contacts.php",
+    "instruction": "Search for your own number on the site. If it exists, use the contact form to request removal.",
     "complete": "FALSE"
   },
   {
     "name": "FreePeopleDirectory.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.freepeopledirectory.com/optout",
+    "instruction": "Search for your own listing on the site. If it exists, use the opt out form to submit the URL of your listing to remove it.",
     "complete": "FALSE"
   },
   {
     "name": "FreePhoneTracer.com",
-    "optout": "support@numberguru.com",
-    "instruction": "",
+    "optout": "https://www.peoplesmart.com/optout-go",
+    "instruction": "Use the opt out link to search for your own listing and click \"That's the one\" to remove your information.",
     "complete": "FALSE"
   },
   {
-    "name": "FullNameDirectory.com",
-    "optout": "",
-    "instruction": "",
+    "name": "FullNameDirectory.com (DOBSearch)",
+    "optout": "https://www.dobsearch.com/people-finder/search-name.php",
+    "instruction": "Search for yourself using the search name link. Select your listing by checking the box to the left and click on Manage My Listing. Click \"I agree\" to having your information removed. Fill in your name only (no DOB) to request removal. ",
     "complete": "FALSE"
   },
   {
     "name": "gladiknow.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.gladiknow.com/opt-out",
+    "instruction": "Using the opt out link search for your own listing. Click 'Select + View Details' on the matching listing. Scroll down the page to find the �Important Records� section. Click the �OPT OUT/REMOVE MY DATA� link in the bottom right corner.",
     "complete": "FALSE"
   },
   {
     "name": "GoLookup.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.golookup.com/support/optout",
+    "instruction": "Use the opt out form and follow the instructions to remove your information.",
     "complete": "FALSE"
   },
   {
     "name": "GovBackgroundChecks.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.truthfinder.com/opt-out/",
+    "instruction": "GovBackgroundChecks is owned by Truthfinder, so removing yourself from Truthfinder will remove yourself from GovBackgroundChecks. Search for your own profile. If it exists, click on the green \"Remove this Record\" on your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "GovernmentRegistry.org",
-    "optout": "",
-    "instruction": "",
+    "name": "GovernmentRegistry.org (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Governmentregistry.org is owned by Infotracer, so removing yourself from InfoTracer will remove you from GovernmentRegistry. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
     "name": "GovRegistry.us",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://govregistry.us/privacy.php",
+    "instruction": "Include the information at the bottom of http://govregistry.us/privacy.php. Fax to (888) 446-1229.",
     "complete": "FALSE"
   },
   {
     "name": "grey-pages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.grey-pages.com/removal",
+    "instruction": "Use the removal form to enter in your phone number and click on the \"opt out\" button.",
     "complete": "FALSE"
   },
   {
     "name": "Hauziz.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@hauziz.com",
+    "instruction": "Email support@hauziz.com with �Removal� as the subject and a basic opt out form",
+    "complete": "FALSE"
+  },
+  {
+    "name": "HeroSearches.com/",
+    "optout": "support@herosearches.com",
+    "instruction": "Email support@herosearches.com with the information that you want removed. Include URLs and include the information that is written exactly the way it is in your profile even if incorrect.",
     "complete": "FALSE"
   },
   {
     "name": "Homemetry.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://homemetry.com/",
+    "instruction": "Search for your own address on homemetry.com. If your address is listed, click on it and scroll down to \"Cost Estimate History\" and click on \"Information Control\" on the right side of the page. Select up to six pieces of information that you would like to remove - you cannot remove more than six records. Click \"Apply\".",
     "complete": "FALSE"
   },
   {
     "name": "HPCC-USA.org",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.hpcc-usa.org/research/change-listing.html",
+    "instruction": "Search for your own listing if it exists under the phone and people search directories. Paste the URL(s) into the form to remove your profiles.",
     "complete": "FALSE"
   },
   {
     "name": "IdentityPi.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@identitypi.com",
+    "instruction": "To opt out of an identitypi account, send an email to support@identitypi.com",
     "complete": "FALSE"
   },
   {
     "name": "IDStrong.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.idstrong.com/optout/",
+    "instruction": "Use the removal form to complete the opt-out process.",
     "complete": "FALSE"
   },
   {
     "name": "IDTrue.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.idtrue.com/optout/",
+    "instruction": "Using the opt out link search for your name using the form on the page and select your record for removal.",
     "complete": "FALSE"
   },
   {
-    "name": "Inflection.com",
-    "optout": "",
-    "instruction": "",
+    "name": "InfoPay.com (Infotracer)",
+    "optout": "https://www.infopay.com/optout",
+    "instruction": "Use the online form to complete the removal process.",
     "complete": "FALSE"
   },
   {
-    "name": "InfoGroup.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "InfoPay.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "InfoRegistry.com",
-    "optout": "https://infotracer.com/optout/",
-    "instruction": "",
+    "name": "InfoRegistry.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "InfoRegistr is owned by Infotracer, so removing yourself from InfoTracer will remove you from InfoRegistry. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
     "name": "InfoSpace.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://system1.com/terms/privacy-policy/privacy-inquiries",
+    "instruction": "Use the online privacy form to complete the removal process.",
     "complete": "FALSE"
   },
   {
     "name": "InfoTracer.com",
-    "optout": "https://infotracer.com/optout/",
-    "instruction": "",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "Inforver.com",
+    "optout": "https://inforver.com/ng/control/privacy",
+    "instruction": "Search for your own listing. If it exists, paste the URL of your listing into the opt out form.",
     "complete": "FALSE"
   },
   {
     "name": "InstantCheckmate.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.instantcheckmate.com/opt-out/",
+    "instruction": "Search for your own listing. If it exists copy and paste the URL into the opt out form and click \"Remove this record.\"",
     "complete": "FALSE"
   },
   {
-    "name": "InstantPeopleFinder.com",
-    "optout": "",
-    "instruction": "",
+    "name": "InstantPeopleFinder.com (Intelius)",
+    "optout": "https://www.intelius.com/opt-out/submit/",
+    "instruction": "InstantPeopleFinder is owned by Intelius, so removing yourself from Intelius will remove yourself from InstantPeopleFinder. Use the opt out link to search for your own listing and click \"select and continue\" to remove your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "Inteligator.com",
-    "optout": "",
-    "instruction": "",
+    "name": "Inteligator.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Inteligator.com is owned by Infotracer, so removing yourself from InfoTracer will remove you from Inteligator. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
     "name": "Intelius.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.intelius.com/opt-out/",
+    "instruction": "Use the opt out tool to search for your listing. When it is found select \"Select and continue\". Follow the procedure to remove your listing.",
     "complete": "FALSE"
   },
   {
-    "name": "IntelRegistry.com",
-    "optout": "",
-    "instruction": "",
+    "name": "IntelRegistry.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Intelregistry is owned by Infotracer, so removing yourself from InfoTracer will remove you from Intelregistry. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
-    "name": "kccllc.net",
-    "optout": "",
-    "instruction": "",
+    "name": "JailBase.com",
+    "optout": "https://www.jailbase.com/contact/",
+    "instruction": "Use the contact form to request profile removal.",
     "complete": "FALSE"
   },
   {
     "name": "KiwiSearches.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://kiwisearches.com/contact",
+    "instruction": "Use the contact form with URL of listing if it exists to request removal. Write the information exactly as it appears in your listing even if incorrect.",
     "complete": "FALSE"
   },
   {
     "name": "LeadFerret.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "removeme@leadferret.com",
+    "instruction": "Submit your removal request to removeme@leadferret.com.",
     "complete": "FALSE"
   },
   {
     "name": "LexisNexis.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://optout.lexisnexis.com/",
+    "instruction": "Use the opt out form to opt out.",
     "complete": "FALSE"
   },
   {
     "name": "LocateFamily.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.locatefamily.com/removal2.html",
+    "instruction": "Use the opt out form for profile removal.",
     "complete": "FALSE"
   },
   {
-    "name": "MarriageRecords.com",
-    "optout": "",
-    "instruction": "",
+    "name": "LocatePeople.org",
+    "optout": "https://www.locatepeople.org/optout/",
+    "instruction": "Search for your own listing If it exists. Paste the URL(s) into the opt out form to remove your profile.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "MarriageRecords.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "MarriageRecords is owned by Infotracer, so removing yourself from InfoTracer will remove you from MarriageRecords. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "MarriageRecords.org",
+    "optout": "http://www.marriagerecords.org/site-lp_optout.php",
+    "instruction": "Use the opt out page for profile removal. Information removal is by fax or email only.",
     "complete": "FALSE"
   },
   {
     "name": "MashPanel.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://www.mashpanel.com/remove.php",
+    "instruction": "Follow the instructions on the opt out form to remove listings.",
     "complete": "FALSE"
   },
   {
     "name": "MelissaData.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "unsubscribe@melissa.com ",
+    "instruction": "Opt out of email marketing, direct mail marketing, or address listing on the website by contacting via email address unsubscribe@melissa.com",
     "complete": "FALSE"
   },
   {
-    "name": "MillionPhone.ne",
-    "optout": "",
-    "instruction": "",
+    "name": "MichiganResidentDatabase.com",
+    "optout": "https://www.michiganresidentdatabase.com/opt-out",
+    "instruction": "Find the URL of your listing. If it exists, enter it into the opt out form.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "MillionPhone.net",
+    "optout": "https://millionphone.net/",
+    "instruction": "Find the URL of your listing by clicking on your name. Scroll down until you see a list called Caller ID and click on the trash can next to your name and address. Enter your information as it appears in your listing to remove and click send.",
     "complete": "FALSE"
   },
   {
     "name": "MyHeritage.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "privacy@myheritage.com",
+    "instruction": "Delete your account on the website or contact privacy@myheritage.com.",
     "complete": "FALSE"
   },
   {
     "name": "MyLife.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.mylife.com/ccpa/index.pubview or privacy@mylife.com",
+    "instruction": "Use the opt out form to opt out of sale of personal information or email privacy@mylife.com to remove your listing.",
     "complete": "FALSE"
   },
   {
     "name": "namesandfacts.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://namesandfacts.com/do-not-sell-my-info",
+    "instruction": "Use the \"do not sell my info\" form",
     "complete": "FALSE"
   },
   {
     "name": "NDB.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://ndb.com/contact.php",
+    "instruction": "Use the contact form at https://ndb.com/contact.php to complete profile removal.",
     "complete": "FALSE"
   },
   {
-    "name": "neighborwho.com",
-    "optout": "",
-    "instruction": "",
+    "name": "neighborwho.com (BeenVerified)",
+    "optout": "https://www.beenverified.com/app/optout/search",
+    "instruction": "NeighborWho is owned by BeenVerified, so removing your information from BeenVerified will remote it from NeighborWho. Use the opt out link to remove your profile if it exists on the site.",
     "complete": "FALSE"
   },
   {
     "name": "Neighbor.Report",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://neighbor.report/remove",
+    "instruction": "Search for your own profile on the website and copy the URL. Paste the URL into the opt out form and fill out other information as it appears in your listing to opt out.",
     "complete": "FALSE"
   },
   {
     "name": "NewEnglandFacts.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://newenglandfacts.com/ ",
+    "instruction": "Search for your own profile on the website. If it exists, click \"Control this profile\" next to your information and follow the instructions to opt out.",
     "complete": "FALSE"
   },
   {
     "name": "NJParcels.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://njparcels.com/redaction/",
+    "instruction": "Search for your own listing and copy the URL of it. Enter it into the opt out form along with your information as it appears exactly in your profile to opt ou.",
     "complete": "FALSE"
   },
   {
     "name": "NorthCarolinaResidentDatabase.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://northcarolinaresidentdatabase.com/opt-out",
+    "instruction": "Find the URL of your listing. If it exists, enter it into the opt out form along with the information as it appears exactly in your listing.",
     "complete": "FALSE"
   },
   {
     "name": "NotariesCalifornia.com",
-    "optout": "",
-    "instruction": "",
+    "optout": " contact@licensedata.org",
+    "instruction": "To opt out your information, send an email to  contact@licensedata.org.",
     "complete": "FALSE"
   },
   {
-    "name": "Number2Name.com",
-    "optout": "",
-    "instruction": "",
+    "name": "NumberGuru.com (BeenVerified)",
+    "optout": "https://www.beenverified.com/app/optout/search",
+    "instruction": "NumberGuru is owned by BeenVerified. Use the opt out tool to complete the opt out process.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "NumLookup.com",
+    "optout": "https://www.numlookup.com/opt_out",
+    "instruction": "Search for your own listing. If it exists enter your phone number into the opt out form and click \"Remove my info.\"",
+    "complete": "FALSE"
+  },
+  {
+    "name": "NumberVille.com",
+    "optout": "https://numberville.com/",
+    "instruction": "Search for your own listing by entering your number on the search bar. In your personal profile click \"Report a problem\". In the comments or questions section, write a comment tha says to please remove personal information. Click on the submit button to remove profile.",
+    "complete": "FALSE"
+  },
+  {
+    "name": "Number2Name.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "Number2Name is owned by Infotracer, so removing yourself from InfoTracer will remove you from Number2Name. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
     "name": "Nuwber.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://nuwber.com/removal/link",
+    "instruction": "Search for your listing on nuwber.com and copy the URL of your listing if it exists. Enter the URL into the opt out form for immediate removal.",
     "complete": "FALSE"
   },
   {
     "name": "OKCaller.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.OKCaller.com",
+    "instruction": "Go to Okcaller.com and create an account using a throwaway email. Search for your phone number in the search bar on the top left of the page. Find your listing and click on it then scroll down and click \"This is my number\" on your listing if it exists. Click on \"Opt-out/Unlist\" to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "Old-Friends.co",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://old-friends.co/",
+    "instruction": "Find your name through the search. Find the listing you want to delete and hover your cursor over \"options\" and click \"Delete me.\"",
     "complete": "FALSE"
   },
   {
     "name": "OldPhoneBook.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "paulmfield@gmail.com, lookupuk@gmail.com ",
+    "instruction": "Email paulmfield@gmail.com and lookupuk@gmail.com with �Removal� as the subject with a URL of your listing. ",
     "complete": "FALSE"
   },
   {
-    "name": "OnlineSearches.com",
-    "optout": "",
-    "instruction": "",
+    "name": "OnlineSearches.com (Intelius)",
+    "optout": "https://www.intelius.com/opt-out/submit/",
+    "instruction": "OnlineSearches is owned by Intelius, so removing yourself from Intelius will remove yourself from OnlineSearches. Use the opt out link to search for your own listing and click \"select and continue\" to remove your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "Open-Public-Records.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "OptOutPreScreen.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "PCH.com (Publisher's Clearing House)",
-    "optout": "",
-    "instruction": "",
+    "name": "Open-Public-Records.com (Intelius)",
+    "optout": "https://www.intelius.com/opt-out/submit/",
+    "instruction": "Open-Public-Records is owned by Intelius, so removing yourself from Intelius will remove yourself from Open-Public-Records. Use the opt out link to search for your own listing and click \"select and continue\" to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "PeekYou.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peekyou.com/about/contact/optout/index.php",
+    "instruction": "Do a search on your own name. Use the opt out form and fill out the information as it appears on your listing. ",
+    "complete": "FALSE"
+  },
+  {
+    "name": "PeepLookup.com",
+    "optout": "https://www.peeplookup.com/opt_out",
+    "instruction": "Search for your own listing. If it exists copy the URL into the opt out form and follow instructions for profile removal.",
     "complete": "FALSE"
   },
   {
     "name": "People-Background-Check.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://people-background-check.com/ng/control/privacy",
+    "instruction": "Search for your own listing. If it exists copy and paste the URL into the opt out form along with the other information as it appears in your listing.",
     "complete": "FALSE"
   },
   {
     "name": "People-Search.org",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "People.YellowPages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.people-search.org/",
+    "instruction": "Go to peoplesearch.org. Search for your profile and click on the request removal button, then follow the removal form to complete the opt out process.",
     "complete": "FALSE"
   },
   {
     "name": "PeopleByName.com",
-    "optout": "http://www.peoplebyname.com/remove.php for name record; contacted by email for phone record",
-    "instruction": "",
+    "optout": "http://www.peoplebyname.com/remove.php",
+    "instruction": "Use the removal for to remove your information",
     "complete": "FALSE"
   },
   {
     "name": "peoplebyphone.com",
     "optout": "https://www.peoplebyphone.com/remove-me/",
-    "instruction": "",
+    "instruction": "Use the removal for to remove your information",
     "complete": "FALSE"
   },
   {
     "name": "PeopleFinder.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplefinders.com/manage",
+    "instruction": "Use the opt out link to locate your listing and click on \"this is me\", then click \"opt out my info\".",
     "complete": "FALSE"
   },
   {
     "name": "PeopleFinders.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplefinders.com/opt-out",
+    "instruction": "Search for your own listing. If it exists, copy the URL into the opt out form to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "PeopleLooker.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.beenverified.com/app/optout/search",
+    "instruction": "Search for your own listing using the opt out tool. If it exists click on it to remove.",
     "complete": "FALSE"
   },
   {
-    "name": "PeopleLookUp.com",
-    "optout": "",
-    "instruction": "",
+    "name": "PeopleLookUp.com (USSearch)",
+    "optout": "https://www.ussearch.com/opt-out/submit/",
+    "instruction": "Search for your own listing using the opt out tool. If it exists click \"remove this record\" on your listing to remove.",
     "complete": "FALSE"
   },
   {
-    "name": "people-search.org�|�Email",
-    "optout": "",
-    "instruction": "",
+    "name": "people-search.org (Persopo)",
+    "optout": "https://www.people-search.org/",
+    "instruction": "Search for your name under the name search directory. Click on the 'request removal' link on your listing and enter information exactly as it appears in your listing. ",
     "complete": "FALSE"
   },
   {
     "name": "PeopleSearchExpert.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplesearchexpert.com/",
+    "instruction": "Search for your own listing on PeopleSearchExpert.com. Click \"request removal\" under \"view record.\" Fill in the information as it appears in your listing to request removal and submit the form.",
     "complete": "FALSE"
   },
   {
     "name": "PeopleSearchNow.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplesearchnow.com/opt-out",
+    "instruction": "Use the online opt out form to remove your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "PeopleSmart.com",
-    "optout": "",
-    "instruction": "",
+    "name": "PeopleSmart.com (BeenVerified)",
+    "optout": "https://www.beenverified.com/f/optout/search",
+    "instruction": "Use the online opt out form to remove your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "PeopleSpy.com",
-    "optout": "",
-    "instruction": "",
+    "name": "PeopleSpy.com (Infotracer)",
+    "optout": "https://www.infotracer.com/optout/",
+    "instruction": "PeopleSpy is owned by Infotracer, so removing yourself from InfoTracer will remove you from PeopleSpy. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
-    "name": "PeopleVerified.com",
-    "optout": "",
-    "instruction": "",
+    "name": "PeopleVerified.com (BeenVerfied)",
+    "optout": "https://www.beenverified.com/f/optout/search",
+    "instruction": "Use the online opt out form to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "PeopleWhiz.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplewhiz.com/remove-my-info",
+    "instruction": "Use the online form to complete the removal process.",
     "complete": "FALSE"
   },
   {
     "name": "Persopo.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "PhoneBook.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@persopo.com",
+    "instruction": "Search for your own records. If they exist contact support@persopo.com with \"Opt out\" as the subject and your information as it appears in the listing. ",
     "complete": "FALSE"
   },
   {
     "name": "PhoneBooks.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.phonebooks.com/",
+    "instruction": "Search for yourself by name and address. If your profile exists click on \"View full profile\" on the right. Scroll to the bottom of the listing and click the link that says \"Request this person be removed\" to complete the opt out process.",
     "complete": "FALSE"
   },
   {
-    "name": "PhoneDetective.com",
-    "optout": "",
-    "instruction": "",
+    "name": "PhoneDetective.com (BeenVerified)",
+    "optout": "https://www.beenverified.com/app/optout/search",
+    "instruction": "PhoneDetective is owned by BeenVerified. Use the opt out tool to complete the opt out process.",
     "complete": "FALSE"
   },
   {
@@ -997,14 +973,8 @@
   },
   {
     "name": "PhoneRegistry.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "pingpdf.com **�|�Email",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://phoneregistry.com/contact/",
+    "instruction": "Use the contact form with URL of listing if it exists to request removal. Write the information exactly as it appears in your listing even if incorrect.",
     "complete": "FALSE"
   },
   {
@@ -1015,56 +985,56 @@
   },
   {
     "name": "Premium.WhitePages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://support.whitepages.com/hc/en-us/requests/new",
+    "instruction": "Search for yourself on premium.whitepages.com and find your listing. Copy the link address by right clicking the Details button. Use the \"Submit a request\" page and choose \"I need to edit or remove a listing\". ",
     "complete": "FALSE"
   },
   {
     "name": "PrivateEye.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplefinders.com/opt-out",
+    "instruction": "PrivateEye is run by PeopleFinders, so removing your information from PeopleFinders will remove it from PrivateEye. Use the opt out link to find your listing and click n \"this is me\" and click \"this is me\" then \"opt out my info.\"",
     "complete": "FALSE"
   },
   {
     "name": "privatenumberchecker.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.privatenumberchecker.com/removal-request",
+    "instruction": "If your listing exists, use the opt out form and enter the information as it appears in your listing.",
     "complete": "FALSE"
   },
   {
     "name": "PropertyShark.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@propertyshark.com",
+    "instruction": "Email support@propertyshark.com with Removal as the subject.",
     "complete": "FALSE"
   },
   {
     "name": "pub360.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://pub360.com/",
+    "instruction": "Search for your name on pub360.com. If your listing is there, switch to the \"Information Removal\" tab under the search bar. Click the box next to your listing and scroll all the way to the bottom of the page to click \"Remove.\"",
     "complete": "FALSE"
   },
   {
     "name": "PublicInfoServices.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@publicinfoservices.com",
+    "instruction": "Sed an email to support@publicinfoservices.com that contains your first and last name as shownin the listing, your age, your current address, and your previous addresses. Only include information as it appears in your listing.",
     "complete": "FALSE"
   },
   {
     "name": "PublicRecords.Directory",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://publicrecords.directory/contact.php",
+    "instruction": "Type �site:publicrecords.directory [your name]� into Google to find your listing. Copy the URL of your listing into the contact form and request to remove your information.",
     "complete": "FALSE"
   },
   {
     "name": "PublicRecords360.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://www.publicrecords360.com/optout.html ",
+    "instruction": "Search for your own listing first and copy the URL. Paste it into the opt out form and follow instructions to remove.",
     "complete": "FALSE"
   },
   {
     "name": "PublicRecordsNow.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.peoplefinders.com/manage",
+    "instruction": "Search for your own listing and click on \"This is me\". Click \"opt out my info\". Click on both boxes and perform the CAPTCHA.",
     "complete": "FALSE"
   },
   {
@@ -1080,33 +1050,21 @@
     "complete": "FALSE"
   },
   {
-    "name": "Records-Index.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
-    "name": "RecordsAuthority.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
     "name": "RecordsFinder.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://recordsfinder.com/optout/",
+    "instruction": "Use the opt out form and fill out the information to search. If your listing exists, check the \"Select Record\" box and click the \"Remove Data\" button.",
     "complete": "FALSE"
   },
   {
     "name": "Rehold.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://rehold.com/",
+    "instruction": "Search for your own listing and click \"Information Control\" to the right of your listing. Click \"Remove\" next to the information you want to remove and click \"Apply\" to remove dat from the site.",
     "complete": "FALSE"
   },
   {
-    "name": "Reunion.com",
-    "optout": "",
-    "instruction": "",
+    "name": "Reunion.com (MyLife)",
+    "optout": "removalrequests@mylife.com",
+    "instruction": "Reuinin is owned by  MyLife, so removing yourself from MyLife will remove you from Reunion. Go to mylife.com and search for your own listing. On the results page click \"See Reputation Score\" and copy and paste the URL of your profile. Compose an email request to opt out with only the data found in your listing and the URL of your profile.",
     "complete": "FALSE"
   },
   {
@@ -1116,15 +1074,15 @@
     "complete": "FALSE"
   },
   {
-    "name": "ReverseMobile.com",
-    "optout": "",
-    "instruction": "",
+    "name": "ReverseMobile.com (Infotracer)",
+    "optout": "https://infotracer.com/optout/",
+    "instruction": "Reverse Mobile is owned by InfoTracer, so removing yourself from InfoTracer will remove you from Reverse Mobile. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
-    "name": "ReversePhoneCheck.com",
-    "optout": "",
-    "instruction": "",
+    "name": "ReversePhoneCheck.com (Infotracer)",
+    "optout": "https://infotracer.com/optout/",
+    "instruction": "Reverse Phone Check is owned by InfoTracer, so removing yourself from InfoTracer will remove you from Reverse Phone Check. Search for your listing using the opt out tool and select \"Remove my Data\" next to your record.",
     "complete": "FALSE"
   },
   {
@@ -1134,15 +1092,15 @@
     "complete": "FALSE"
   },
   {
-    "name": "SalesSpider.com",
-    "optout": "",
-    "instruction": "",
+    "name": "RocketReach.com",
+    "optout": "https://rocketreach.co/claim-profile/",
+    "instruction": "Search for your profile on rocketreach.co and copy the URL. Then use the online claim profile tool for removal.",
     "complete": "FALSE"
   },
   {
     "name": "SearchBug.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.searchbug.com",
+    "instruction": "Go to searchbug and search for your listing. Find your results and click on them. At the top of your listing, click \"Remove\".",
     "complete": "FALSE"
   },
   {
@@ -1152,7 +1110,7 @@
     "complete": "FALSE"
   },
   {
-    "name": "searchpublicrecords.com�",
+    "name": "searchpublicrecords.com",
     "optout": "https://www.searchpublicrecords.com/help-center/remove-my-public-record",
     "instruction": "Search for your own records. If they exist use the opt out form.",
     "complete": "FALSE"
@@ -1237,20 +1195,20 @@
   },
   {
     "name": "TheIdentityPages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://theidentitypages.com/Remove",
+    "instruction": "Go to theidentitypages.com. Search for your own profile by using the search bar and find the profile that contains information about you.Copy the URL of your profile and use the remove page to remove your profile.",
     "complete": "FALSE"
   },
   {
-    "name": "thepublicrecords.com",
-    "optout": "",
-    "instruction": "",
+    "name": "thepublicrecords.com (People Finders)",
+    "optout": "https://www.peoplefinders.com/manage",
+    "instruction": "The public records is owned by People Finders. Removing yourself from PeopleFinders will remove you from The Public Records. Use the link to find your own listing and click \"This is me.\" Click on \"opt out my info\" to opt out.",
     "complete": "FALSE"
   },
   {
     "name": "TowerData.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://instantdata.towerdata.com/optout",
+    "instruction": "Use the opt out form to complete the removal process.",
     "complete": "FALSE"
   },
   {
@@ -1272,21 +1230,15 @@
     "complete": "FALSE"
   },
   {
-    "name": "TrueRep.com",
-    "optout": "",
-    "instruction": "",
-    "complete": "FALSE"
-  },
-  {
     "name": "trustifo.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.trustifo.com/",
+    "instruction": "Search for your own listing using the opt out tool. If it exists enter the URL into the opt out tool with the information as it appears in your listing ",
     "complete": "FALSE"
   },
   {
     "name": "Trustoria.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.trustoria.com/page/contact",
+    "instruction": "Does not have a functioning opt-out process in place at this time. Use the contact form.",
     "complete": "FALSE"
   },
   {
@@ -1304,7 +1256,7 @@
   {
     "name": "UnitedStatesPhoneBook.com",
     "optout": "http://www.unitedstatesphonebook.com/contact.php",
-    "instruction": "",
+    "instruction": "Use the contact form to request profile removal.",
     "complete": "FALSE"
   },
   {
@@ -1327,56 +1279,56 @@
   },
   {
     "name": "USABackground.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "support@usabackground.com",
+    "instruction": "A direct request must be emailed to support@usabackground.com. Attach  a scan copy of driver license or ID card. Be sure to block out your ID number, photo, and signature. Request that your information be removed from their database.\n",
     "complete": "FALSE"
   },
   {
     "name": "USAProfilePages.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "http://usaprofilepages.com/Remove ",
+    "instruction": "Search for your profile. If it exists, click on \"View More\" to copy the URL of your listing. Paste it within the removal form to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "usareversephone.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://usareversephone.com/optout/index",
+    "instruction": "Search for your own number. If it exists, remove using the opt out form.",
     "complete": "FALSE"
   },
   {
     "name": "UserSearch.org",
     "optout": "support@usersearch.org",
     "instruction": "Find your own information using the website's search tool.  Email support@usersearch.org listing the data you would like removed stating you want to exercise your �Right to Erase� or �Right to restrict our use of your Data�.",
-    "complete": ""
+    "complete": "FALSE"
   },
   {
     "name": "usphonenumberformat.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "removephonenumber@yeah.net",
+    "instruction": "Contact removephonenumber@yeah.net to remove phone number.",
     "complete": "FALSE"
   },
   {
     "name": "ValidNumber.com",
     "optout": "https://validnumber.com/doc/contact/",
     "instruction": "Search for your own phone number. If a listing exists use the contact form for profile removal.",
-    "complete": ""
+    "complete": "FALSE"
   },
   {
     "name": "ValPak.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://www.valpak.com/coupons/show/mailinglistsuppression",
+    "instruction": "Use the opt out form to request mailing opt out.",
     "complete": "FALSE"
   },
   {
     "name": "verecor.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://verecor.com/ng/control/privacy",
+    "instruction": "Search for your own listing. If it exists, paste the URL of your listing into the opt out form.",
     "complete": "FALSE"
   },
   {
     "name": "vericora.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "https://vericora.com/ng/control/privacy",
+    "instruction": "Search for your own listing. If it exists, paste the URL of your listing into the opt out form.",
     "complete": "FALSE"
   },
   {
@@ -1412,19 +1364,19 @@
   {
     "name": "whatareusaphonenumbers.com",
     "optout": "removephonenumber@yeah.net",
-    "instruction": "",
+    "instruction": "Contact removephonenumber@yeah.net to remove phone number.",
     "complete": "FALSE"
   },
   {
     "name": "WhitePages.com",
     "optout": "https://www.whitepages.com/suppression_requests",
-    "instruction": "",
+    "instruction": "Use the suppresion request form to paste your URL to remove your profile.",
     "complete": "FALSE"
   },
   {
     "name": "whoiscallingmefromthisnumber.com",
-    "optout": "",
-    "instruction": "",
+    "optout": "removephonenumber@yeah.net",
+    "instruction": "Email removephonenumber@yeah.net the link in the post and copy the information in an email to them to remove your listing.",
     "complete": "FALSE"
   },
   {
@@ -1443,10 +1395,10 @@
     "name": "Yasni.com",
     "optout": "None",
     "instruction": "There is no direct removal option available. �This website will identify the source of the information for you to pursue for opt-out or removal.",
-    "complete": ""
+    "complete": "FALSE"
   },
   {
-    "name": "yellowbook.com�",
+    "name": "yellowbook.com",
     "optout": "https://www.yellowbook.com/",
     "instruction": "Search for your own proifle on yellowbook.com. Email privacy.officerus@hibu.com using a basic opt out form and URL of your profile.",
     "complete": "FALSE"
@@ -1455,7 +1407,7 @@
     "name": "yellowpages.com (Intelius)",
     "optout": "https://www.yellowpages.com/",
     "instruction": "Yellowpages is owned by intelius. Also complete the Intelius opt out form at http://intelius.com/optout. On he yellowpages website itself you may search and select your profile and choose �Remove Listing� to remove your profile.",
-    "complete": ""
+    "complete": "FALSE"
   },
   {
     "name": "zabasearch.com (Intelius)",

@@ -5,6 +5,8 @@ import data from './data-brokers.json'
 import ModalComponent from './components/ModalComponent'
 
 
+
+
 let dataBrokers = data;
 
 //preprocess the data
@@ -78,85 +80,94 @@ class App extends React.Component {
     if (broker.optout.search(/^http[s]?:\/\//) !== -1) {
       return <a href={broker.optout} target={"_blank"} rel={"noreferrer"}
                 className={broker.complete === true ?
-                    "a.link-complete" : "a.link-incomplete"}
+                    "link-complete" : "link-incomplete"}
       >
-        {'Opt Out Form'}
+        <b>{'Opt Out Form'}</b>
       </a>
     } else if (broker.optout.search(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gi) !== -1) {
       return <a href={`mailto:` + broker.optout}
                 className={broker.complete === true ?
-                    "a.link-complete" : "a.link-incomplete"}>
-        Email
+                    "link-complete" : "link-incomplete"}>
+        <b>Email</b>
       </a>
+    } else {
+      return "Follow Instructions"
     }
   }
 
 
-  // insertRowsinTable = () => (
-  //
-  //     let newRow, nameCell, linkCell, instructionCell, completionCell;
-  //
-  //     this.state.dataBrokers
-  //     .filter(broker => broker.name.toLowerCase().includes(this.state.queryString.toLowerCase()))
-  //     .map((broker) =>
-  //
-  //         newRow = my-Table.insertRow(-1);
-  //
-  //         nameCell = newRow.insertCell(0);
-  //         linkCell = newRow.insertCell(1);
-  //         instructionCell = newRow.insertCell(2);
-  //         completionCell = newRow.insertCell(3);
-  // )
-
   render() {
     return (
         <div className='App'>
-          <div className='outer-wrapper'>
+
+          <div className={'fixed-div'}>
             <div className={'title-div'}>
               <h1>Data Broker Opt Out List</h1>
             </div>
 
-            <div className={'search-bar-div'}>
-              <input type="search" onChange={this.filterResults} value={this.state.queryString}/>
+            <div className={'search-bar-outer-div'}>
+
+              <div className={'search-bar-div'}>
+                <input type="search" onChange={this.filterResults} value={this.state.queryString} placeholder="Search..."/>
+              </div>
+
+
             </div>
 
+            <div className={'outer-header-wrapper'}>
+              <div className={'header-wrapper'}>
+                {
+                  <table className={"header-Table"}>
+                    <tr className={"tr-header-table"}>
+                      <th className={"td-header-table"}>Website</th>
+                      <th className={"td-header-table"}>Opt Out Link</th>
+                      <th className={"td-header-table"}>Removal Instructions</th>
+                      <th className={"td-header-table"}>Complete?</th>
+                    </tr>
+                  </table>
+                }
+              </div>
+            </div>
+
+          </div>
+
+          <div className='outer-wrapper'>
 
             <div className={'table-wrapper'}>
-              <table className={"my-Table"}>
+              <table id={"optout-Table"}>
+                <tbody>
 
 
                 {
                   this.state.dataBrokers
                       .filter(broker => broker.name.toLowerCase().includes(this.state.queryString.toLowerCase()))
                       .map((broker) =>
-                          <div>
-                            <tr className={"rows"}>
-                              <td className={broker.complete === true ? 'complete-row' : 'incomplete-row'}>
+                            <tr className={broker.complete === true ? 'tr-complete' : 'tr-incomplete'}>
+                              <td className={broker.complete === true ? 'td-complete' : 'td-incomplete'}>
                                 {broker.name}
                               </td>
 
-                              <td className={broker.complete === true ? 'complete-row' : 'incomplete-row'}>
+                              <td className={broker.complete === true ? 'td-complete' : 'td-incomplete'}>
                                 {this.getOptOutContent(broker)}
                               </td>
 
 
-                              <td className={broker.complete === true ? 'complete-row' : 'incomplete-row'}>
-                                     <button onClick={() => this.instructionButtonClick(broker.name)} type='button'
-                                             className={broker.complete === true ? 'button-grey' : 'button'}>
-                                       {"Removal Instructions"}
-                                     </button>
+                              <td className={broker.complete === true ? 'td-complete' : 'td-incomplete'}>
+                                <button onClick={() => this.instructionButtonClick(broker.name)} type='button'
+                                        className={broker.complete === true ? 'button-grey' : 'button'}>
+                                  {"Removal Instructions"}
+                                </button>
 
                               </td>
 
-                              <td className={broker.complete === true ? 'complete-row' : 'incomplete-row'}>
+                              <td className={broker.complete === true ? 'td-complete' : 'td-incomplete'}>
                                 <button onClick={() => this.buttonChange(broker.name)} type='button'
                                         className={broker.complete === true ? 'button-grey' : 'button'}>
                                   {broker.complete ? "Complete" : "Incomplete"}
                                 </button>
                               </td>
                             </tr>
-
-                          </div>)
+)
 
                 }
 
@@ -169,6 +180,7 @@ class App extends React.Component {
                     }>
                   {this.getModalContent()}
                 </ModalComponent>
+              </tbody>
               </table>
 
 
